@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Emily Buerk's Blog</title>
- <link href="http://emilybuerk.github.io/blog/atom.xml" rel="self"/>
- <link href="http://emilybuerk.github.io/blog"/>
+ <title>Emily Buerk's Related Articles</title>
+ <link href="http://emilybuerk.github.io/relatedarticles/atom.xml" rel="self"/>
+ <link href="http://emilybuerk.github.io/relatedarticles"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://emilybuerk.github.io/blog</id>
+ <id>http://emilybuerk.github.io/relatedarticles</id>
  <author>
    <name>Emily Buerk</name>
    <email>egbuerk@gmail.com</email>
